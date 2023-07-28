@@ -4,7 +4,7 @@
 <p align="center">
 <img src="https://github.com/m0ham3dx/mx-wdfs-g/actions/workflows/build.yml/badge.svg" alt="build">
 <img src="https://img.shields.io/badge/experiment-%F0%9F%94%AC-yellow" alt="experiment">
-<img src="https://img.shields.io/badge/ver-v0.0.1-blue" alt="experiment">
+<img src="https://img.shields.io/badge/ver-v0.0.2-blue" alt="experiment">
 </p>
 
 [![](./gfx/mx.png)](https://www.youtube.com/@m0ham3dxx)
